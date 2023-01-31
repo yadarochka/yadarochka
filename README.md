@@ -1,16 +1,35 @@
-### Hi there 👋
+# Привет! 👋 Меня зовут Данил</h1>
 
-<!--
-**yadarochka/yadarochka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+22 года, frontend developer из Уфы
 
-Here are some ideas to get you started:
+- 🔭 В данный момент являюсь студентом 4 курса направления **Информационные системы и технологии**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Изучаю **Next.js** для своего дипломного проекта
+
+- 📄 Моё [резюме](https://career.habr.com/yadaro4ka)
+
+- 📫 Написать мне: [Telegram](https://t.me/yadaro4ka)
+
+
+
+## Hard skills: 
+- 🚀 React
+
+- 🏪 Redux Toolkit, Mobx
+
+- 🌐 TypeScript, JavaScript
+
+- 🛠️ Vite, Webpack
+
+- 🚦 Git, Docker, GitHub Actions
+
+- 🔍 Jest, Puppeteer
+
+
+## Statistic
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yadarochka&langs_count=5&theme=tokyonight)]()
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=yadarochka&count_private=true&theme=tokyonight&showicons=true)]()
+
+![codewars](https://www.codewars.com/users/yadaro4ka/badges/large)
