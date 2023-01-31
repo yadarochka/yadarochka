@@ -21,8 +21,6 @@
 
 - 🛠️ Vite, Webpack
 
-- 🚦 Git, Docker, GitHub Actions
-
 - 🔍 Jest, Puppeteer
 
 ## Projects:
