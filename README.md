@@ -35,6 +35,18 @@
 
 🌐 [Live Version](https://yadaro4ka.netlify.app/) &nbsp;/&nbsp; 📕 [Repositories](https://github.com/yadarochka/crypto-coin-project)
 
+### BattleShip  •  2022
+
+🌞  Одно из тестовых заданий, которое я выполнял для устройства на работу. 
+
+🌐 [Live Version](https://yadarochka-battleship.netlify.app/) &nbsp;/&nbsp; 📕 [Repositories](https://github.com/yadarochka/battleship)
+
+### Ride Together •  2023
+
+🌞  Full-stack веб-приложение для поиска попутчиков. Моя дипломная работа 
+
+📕 [Frontend Repositories](https://github.com/yadarochka/ride-together-client) &nbsp;/&nbsp; 📕 [Backend Repositories](https://github.com/yadarochka/ride-together-server)
+
 ## Statistic
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yadarochka&langs_count=5&theme=tokyonight)]()
